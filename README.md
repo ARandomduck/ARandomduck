@@ -1,5 +1,1 @@
-- 👋 Hi, I’m ARandomduck
-- 👀 I’m interested in game and website development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on a game with someone that would help me extend my knowledge
-- 📫 My discord is ARandomDuck#0001
+Too much free time, some good ideas, no motivation
